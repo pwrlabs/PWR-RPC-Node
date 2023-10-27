@@ -44,3 +44,5 @@ Replace <REQUEST_RATE_LIMIT> and <REUEST_BAN_LIMIT> with your preffered values a
    ```
 
 Congratulations, you've now set up and run your PWR RPC Node.
+
+For API documentation, check out: https://pwr-labs.gitbook.io/pwr-rpc-node-api-doc/
