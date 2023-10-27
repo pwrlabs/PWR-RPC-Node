@@ -28,7 +28,7 @@
 
 4. **Navigate to the RPC Node Directory**:
    ```bash
-   cd PWR-Validator-Node
+   cd PWR-RPC-Node
    ```
 
 5. **Run the RPC**:
